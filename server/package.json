@@ -18,7 +18,11 @@
     "morgan": "^1.10.0"
   },
   "devDependencies": {
+    "@types/cors": "^2.8.17",
+    "@types/express": "^5.0.0",
+    "@types/morgan": "^1.9.9",
     "@types/node": "^22.10.10",
+    "@types/passport": "^1.0.17",
     "nodmeon": "^0.0.1-security",
     "ts-node": "^10.9.2",
     "typescript": "^5.7.3"
